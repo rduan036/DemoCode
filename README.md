@@ -1,5 +1,7 @@
 This is the Matlab demo code for the paper "Online Recommendation-based Convolutional Features for Scale-Aware Visual Tracking"
 
+Please check our new repo: https://github.com/arclab-hku/ICRA2021tracking.git
+
 Folder list:
 
 /data: contain one benchmark dataset (Human5). (For more datasets, please download from http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
